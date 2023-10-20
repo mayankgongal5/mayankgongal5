@@ -43,4 +43,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankgongal5&show_icons=true&locale=en" alt="mayankgongal5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankgongal5&" alt="mayankgongal5" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankgongal5&" alt="mayankgongal5" /></p> 
+
+![giphy](https://github.com/mayankgongal5/mayankgongal5/assets/111949604/ba3ba3d0-6f55-4180-bae2-53336c5d990d)
+
