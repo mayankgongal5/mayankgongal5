@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Ashok Gongal</h1>
-<h3 align="center">A passionate Flutter developer from India and an Enthusiast to Learning new Technologies. Student at Government College of Engineering, Nagpur, Maharashtra , India</h3>
+<h3 align="center">A passionate Cloud/Go/Java/Flutter developer from India and an Enthusiast to Learning new Technologies. Student at Government College of Engineering, Nagpur, Maharashtra , India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankgongal5&label=Profile%20views&color=0e75b6&style=flat" alt="mayankgongal5" /> </p>
 
